@@ -1,0 +1,11 @@
+:root{
+    --cor-fundo: rgb(3, 3, 43);
+    --cor-principal: rgb(15, 15, 77) ;
+    --cor-secundaria:rgb(44, 44, 175);
+    --cor-destaque:rgb(17, 0, 255);
+    --cor-texto:rgb(14, 187, 255);
+}
+body{
+    background-color: var(--cor-fundo);
+    color: var(--cor-texto);
+}
